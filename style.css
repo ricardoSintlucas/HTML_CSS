@@ -1,0 +1,33 @@
+body{
+    font-family: "Arial Narrow", Helvetica, sans-serif;
+    display: flex;
+}
+
+.wrapper {
+    background-color: #b4ace6;
+}
+
+.topPart{
+    background-color: #FFFFFF;
+    border-radius: 15px;
+}
+
+.subsection{
+    background-color: #0000FF;
+    width:33vw;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: #0000FF;
+    padding: 14px 16px;
+}
+
+.subsection h2{
+    color: #FFFFFF;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive;
+}
