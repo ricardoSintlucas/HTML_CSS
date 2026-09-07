@@ -1,6 +1,6 @@
 body{
     font-family: "Arial Narrow", Helvetica, sans-serif;
-    display: flex;
+
 }
 
 .wrapper {
@@ -10,6 +10,7 @@ body{
 .topPart{
     background-color: #FFFFFF;
     border-radius: 15px;
+    width: 60vw;
 }
 
 .subsection{
@@ -17,14 +18,17 @@ body{
     width:33vw;
 }
 
-.menu a{
+.menu a {
     text-decoration: none;
-    color: white;
-    font-weight: bold;
-    background-color: #0000FF;
-    padding: 14px 16px;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 15px;
 }
 
+.menu a:hover {
+    background-color: #535353;
+}
 .subsection h2{
     color: #FFFFFF;
     font-size: 30px;
