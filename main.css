@@ -1,0 +1,32 @@
+p{
+    font-family: "Comic Sans MS";
+}
+
+body{
+
+}
+
+.bigTextLeft{
+    color:#b4ace6;
+}
+
+.wrapper{
+    background-color: #b4ace6;
+}
+
+.topPart{
+    background-color: #FFFFFF;
+    width:60vw;
+    border-radius: 20px;
+}
+
+.menu a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: #535353;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+.menu a:hover{
+    background-color: #898989;
+}
